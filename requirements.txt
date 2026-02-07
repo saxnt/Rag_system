@@ -1,0 +1,27 @@
+# Core LangChain
+langchain==0.1.0
+langchain-core==0.1.10
+
+# Vector Store
+langchain-qdrant==0.1.0
+qdrant-client==1.7.0
+
+# Embeddings
+langchain-huggingface==0.0.1
+sentence-transformers==2.3.1
+
+# LLM
+langchain-google-genai==0.0.6
+google-generativeai==0.3.2
+
+# Text Processing
+langchain-text-splitters==0.0.1
+
+# Utilities
+python-dotenv==1.0.0
+
+# Optional: PDF support (if you want to add PDF policies)
+pypdf==3.17.4
+
+# Optional: Additional utilities
+tqdm==4.66.1
