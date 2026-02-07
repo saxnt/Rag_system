@@ -411,12 +411,6 @@ This will:
 4. Test edge cases
 5. Output detailed results and save to `evaluation_results.json`
 
-Compare prompt versions:
-```python
-# In evaluate.py, uncomment the line:
-evaluator.compare_prompts()
-```
-
 ## 🎨 Customization
 
 ### Adding New Policies
